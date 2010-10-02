@@ -1,0 +1,6 @@
+This command-line tool simply swaps the primary and secondary displays
+on Mac OS X. This is equivalent to, but much faster than, opening the
+"Displays" preference pane and moving the menu bar from one display to
+the other.
+
+It only works with exactly two displays.
